@@ -1,0 +1,48 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2020-01-15T16:37:20.144Z",
+        "line": 3,
+        "name": "Buscar GFA en chrome",
+        "description": "",
+        "id": "prueba-de-un-escenario;buscar-gfa-en-chrome",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 7971488400,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Que ingrese al navegador",
+            "match": {
+              "location": "Test_one.given()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1304294800,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Ingreso GFA en el campo buscar",
+            "match": {
+              "location": "Test_one.and()"
+            },
+            "keyword": "And "
+          }
+        ]
+      }
+    ],
+    "name": "prueba de un escenario",
+    "description": "",
+    "id": "prueba-de-un-escenario",
+    "keyword": "Feature",
+    "uri": "file:features/TestUno.feature",
+    "tags": []
+  }
+]

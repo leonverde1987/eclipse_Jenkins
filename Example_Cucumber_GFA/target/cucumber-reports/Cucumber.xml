@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="9.307989">
+<testcase classname="prueba de un escenario" name="Buscar GFA en chrome" time="9.307989">
+<system-out><![CDATA[Given Que ingrese al navegador..............................................passed
+And Ingreso GFA en el campo buscar..........................................passed
+]]></system-out>
+</testcase>
+</testsuite>
